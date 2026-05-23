@@ -86,7 +86,7 @@ python src/model.py
 cd dashboard
 streamlit run app.py
 ```
-Then open: **http://localhost:8501**
+Then open: **https://upi-fraud-detector-bdtoye59rnobg7dbcazcdy.streamlit.app**
 
 ---
 
@@ -146,10 +146,10 @@ Streamlit        → Web dashboard
 
 ## 👤 Author
 
-**[Your Name]** | CS Student | Aspiring Data Analyst
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
+**Shivam Verma** | CS Student | Aspiring Data Analyst
+- LinkedIn: https://www.linkedin.com/in/shivam-verma1204/
+
 
 ---
 
-*⭐ Star this repo if you found it helpful!*
+
