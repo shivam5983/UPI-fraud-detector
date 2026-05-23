@@ -133,17 +133,6 @@ Streamlit        → Web dashboard
 
 ---
 
-## 💼 CV Description (Copy-Paste Ready)
-
-> **UPI Transaction Fraud Detection System** | Python, Scikit-learn, Streamlit, Plotly
->
-> Engineered an end-to-end fraud detection pipeline on 10,000+ UPI transactions; applied
-> Random Forest & Isolation Forest achieving 99%+ ROC-AUC. Built interactive Streamlit
-> dashboard with real-time transaction risk scoring — identified 5 key fraud patterns
-> including odd-hour transactions (83% fraud correlation) and high-value P2P transfers.
-
----
-
 ## 👤 Author
 
 **Shivam Verma** | CS Student | Aspiring Data Analyst
